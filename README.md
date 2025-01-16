@@ -1,1 +1,1 @@
-#Scraper for ZNWR.ru
+# Scraper for ZNWR.ru
